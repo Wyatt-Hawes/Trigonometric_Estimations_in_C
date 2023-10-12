@@ -1,3 +1,5 @@
+# View WRITEUP.pdf to view created estimations
+
 How to run and use mathlib-test.c
 ================================
 
